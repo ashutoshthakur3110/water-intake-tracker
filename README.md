@@ -1,9 +1,9 @@
-💧 Water Tracker App
+**💧 Water Tracker App**
 
 A simple and clean water intake tracking application built using React and CSS. The app helps users monitor and manage their daily hydration goals with ease. It offers a minimal UI, quick add buttons, manual input, progress visualization, and daily history — all stored locally in the browser.
 
 
-Features
+**Features**
 - Track daily water intake (default goal: 2000 ml)
 - Add intake manually or with quick +250ml / +500ml buttons
 - View real-time progress bar and stats
@@ -13,14 +13,14 @@ Features
 - Option to clear all saved history
 
 
-Tech Stack
+**Tech Stack**
 - React JS
 - CSS
 - JavaScript (ES6+)
 - Browser LocalStorage (for saving daily data)
 
 
-Installation & Setup Instructions
+**Installation & Setup Instructions**
 Follow these steps to get the app running on your local machine:
 
 1. Clone the Repository
